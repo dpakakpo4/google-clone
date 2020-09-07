@@ -13,7 +13,7 @@ function Home() {
             {/* Home header */}
             <div className='home__header'>
                 <div className='home__headerLeft'>
-                    <Link to='/about'>About(Kanda JS)</Link>
+                    <Link to='/about'>About</Link>
                     <Link to='/store'>Store</Link>
                 </div>
                 <div className='home__headerRight'>
